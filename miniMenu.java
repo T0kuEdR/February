@@ -50,6 +50,5 @@ public class miniMenu {
              System.out.println("Programa cerrado.");
      }
 
-
     }
 }
